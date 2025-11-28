@@ -1,0 +1,62 @@
+////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//  File name :     FunctionUserDefined.c
+//  Description :   Demonstrates user-defined function in C which performs
+//                  addition of two predefined integers and returns the result.
+//  Author :        Varad Nitin Muley
+//  Date :          17/10/2025
+//
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////////
+//
+//  Required Header files
+//
+/////////////////////////////////////////////////////////////////
+
+#include<stdio.h>
+
+/////////////////////////////////////////////////////////////////
+//
+//  Function Name : Addition
+//  Description :   Returns addition of two integers
+//  Input :         Integer, Integer
+//  Output :        Integer
+//
+/////////////////////////////////////////////////////////////////
+
+int Addition(int iNo1, int iNo2)
+{
+    int iSum = 0;                    // Local variable to store sum
+
+    iSum = iNo1 + iNo2;              // Addition logic
+
+    return iSum;                     // Returning result
+}
+
+/////////////////////////////////////////////////////////////////
+//
+//  Entry point function for the application
+//
+/////////////////////////////////////////////////////////////////
+
+int main()
+{
+    int iValue1 = 10, iValue2 = 11;  // Predefined values
+    int iAns = 0;
+
+    iAns = Addition(iValue1, iValue2);   // Function call
+
+    printf("Addition is : %d\n", iAns);  // Display result
+
+    return 0;
+}   // End of main
+
+/////////////////////////////////////////////////////////////////
+//
+//  Testcase successfully handled by the application
+//
+//  Input : None (Predefined values)
+//  Output : Addition is : 21
+//
+/////////////////////////////////////////////////////////////////
