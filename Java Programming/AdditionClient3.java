@@ -9,7 +9,7 @@ class AdditionClient3
         System.out.println("Client is running ");
 
 
-        Socket sobj = new Socket("Localhost",2100);
+        Socket sobj = new Socket("Localhost",2100); 
         System.out.println("Server Successfully connected  ");
 
         DataInputStream diobj = new DataInputStream (sobj.getInputStream());
@@ -30,6 +30,7 @@ class AdditionClient3
         System.out.println("Client application terminated.... ");
     }
 }
+
 
 
 
