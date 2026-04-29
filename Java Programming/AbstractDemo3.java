@@ -8,7 +8,7 @@ abstract class Base
     }
 
     abstract public int Substraction (int a , int b );
-    
+     
 }
 class Derived extends Base     // error
 {
