@@ -11,7 +11,7 @@ class MarvellousLogin implements ActionListener
     JPasswordField pobj;
     JLabel Userlabel , Passlabel , Resultlabel;
 
-
+      
     public MarvellousLogin(String title, int width , int height)
     {
         fobj = new JFrame(title);
