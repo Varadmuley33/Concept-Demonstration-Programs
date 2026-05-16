@@ -6,7 +6,6 @@ class Base
     public : 
         int i,j;
 
-
         void fun()
         {
             cout<<"Inside Base fun \n";
