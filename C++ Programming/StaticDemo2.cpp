@@ -34,7 +34,7 @@ class Demo
             cout<<"Inside Gun\n";
         }
 
-};
+};    
 
 int Demo :: x = 11;
 
