@@ -6,7 +6,7 @@ abstract class Base
     {
         return a + b;
     }
-  
+     
     abstract public int Substraction (int a , int b );
     
 }
