@@ -17,7 +17,7 @@ class AdditionServer3
 
         int No1 = 0 , No2 = 0 ;
 
-       No1 = diobj.readInt();
+       No1 = diobj.readInt();      
        No2 = diobj.readInt();
 
        int sum = No1 + No2 ;
