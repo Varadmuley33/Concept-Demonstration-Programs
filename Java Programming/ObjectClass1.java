@@ -4,7 +4,7 @@ class Demo
 {
 
 }
-class ObjectClass1 
+class ObjectClass1    
 {
     public static void main (String A [])
     {
