@@ -5,7 +5,7 @@ import java.net.*;
 class ChatClient
 {
     public static void main (String A[])  throws Exception
-    {
+    {   
 
 
         Socket sobj = new Socket ("localhost",5100);
