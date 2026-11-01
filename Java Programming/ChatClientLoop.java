@@ -22,7 +22,7 @@ class ChatClientLoop
         String str1 = null , str2 = null;
         System.out.println("Enter message for server : ");
 
-       while(!(str1 = bobj2.readLine()).equals("End"))
+       while(!(str1 = bobj2.readLine()).equals("End"))    
        {
             pobj.println(str1);
             str2 = bobj1.readLine();
