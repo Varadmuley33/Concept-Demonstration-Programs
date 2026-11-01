@@ -6,7 +6,7 @@ class ChatServerLoop
     public static void main (String A[])   throws Exception
     {
         ServerSocket ssobj = new ServerSocket(2100);
-        System.out.println("Server is waiting at port 5100");
+        System.out.println("Server is waiting at port 5100");   
 
         Socket sobj = ssobj.accept();
         System.out.println("Clinent request gets accepted successfully");
