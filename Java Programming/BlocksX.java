@@ -6,7 +6,7 @@ class Demo
     static
     {
         System.out.println("Inside static block");
-        j = 21;
+        j = 21;   
     }
 
     {
