@@ -3,7 +3,7 @@
 //  File name :     Demo.java
 //  Description :   Demonstrates a simple Java program that prints
 //                  a message using the main method.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley     
 //  Date :          24/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
