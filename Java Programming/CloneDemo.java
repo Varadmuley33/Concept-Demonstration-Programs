@@ -3,7 +3,7 @@ class Demo implements Cloneable
     public int i ;
     public int j ;
 
-    Demo(int a , int b)
+    Demo(int a , int b)   
     {
         this.i = a ;
         this.j = b ;
