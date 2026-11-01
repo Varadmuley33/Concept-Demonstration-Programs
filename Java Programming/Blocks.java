@@ -9,7 +9,7 @@ class Demo
         j = 21;
     }
  
-    public Demo()
+    public Demo()   
     {
         System.out.println("Inside Constructor");
         this.i = 11;
