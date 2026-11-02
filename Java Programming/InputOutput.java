@@ -3,7 +3,7 @@ class InputOutput
 {
     public static void main (String a[])
     {
-
+   
         Scanner sobj = new Scanner(System.in);
 
         int No1 = 0 ;
