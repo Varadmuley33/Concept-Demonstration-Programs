@@ -5,7 +5,7 @@ class Base
     final public void gun()       // Defination
     {}
 }
-
+   
 class Derived extends Base
 {
     public void run()       // Defination
