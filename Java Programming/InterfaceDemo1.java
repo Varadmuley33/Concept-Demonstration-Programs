@@ -7,7 +7,7 @@
  class Hello implements Demo
  {
 
- }
+ }    
  class InterfaceDemo1 
  {
     public static void main (String A[])
