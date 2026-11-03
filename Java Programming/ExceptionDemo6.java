@@ -3,7 +3,7 @@
 //  File name :     ExceptionDemo6.java
 //  Description :   Demonstrates incorrect ordering of catch blocks
 //                  during division of two user-entered integers.
-//                  Highlights error caused by generic catch before
+//                  Highlights error caused by generic catch before   
 //                  specific exception handling.
 //  Author :        Varad Nitin Muley
 //  Date :          27/11/2025
