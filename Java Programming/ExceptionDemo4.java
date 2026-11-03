@@ -2,7 +2,7 @@
 //
 //  File name :     ExceptionDemo4.java
 //  Description :   Demonstrates handling of arithmetic exception
-//                  during division of two user-entered integers.
+//                  during division of two user-entered integers.   
 //                  Uses try and catch blocks to prevent abnormal termination.
 //  Author :        Varad Nitin Muley
 //  Date :          27/11/2025
