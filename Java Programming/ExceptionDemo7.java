@@ -3,7 +3,7 @@
 //  File name :     ExceptionDemo7.java
 //  Description :   Demonstrates improper placement of statements
 //                  between catch blocks during exception handling.
-//                  Highlights compilation error with try-catch-finally.
+//                  Highlights compilation error with try-catch-finally.   
 //  Author :        Varad Nitin Muley
 //  Date :          27/11/2025
 //
