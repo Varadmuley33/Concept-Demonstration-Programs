@@ -3,7 +3,7 @@
 //  File name :     ExceptionDemo1.java
 //  Description :   Demonstrates division of two user-entered numbers
 //                  using basic input handling. The program performs
-//                  integer division without exception handling.
+//                  integer division without exception handling.   
 //                  Original logic and structure are preserved.
 //  Author :        Varad Nitin Muley
 //  Date :          27/11/2025
