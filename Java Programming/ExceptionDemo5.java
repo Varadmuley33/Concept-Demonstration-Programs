@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     ExceptionDemo5.java
-//  Description :   Demonstrates handling of multiple exceptions
+//  Description :   Demonstrates handling of multiple exceptions   
 //                  during division of two user-entered integers.
 //                  Uses both specific and generic catch blocks.
 //  Author :        Varad Nitin Muley
