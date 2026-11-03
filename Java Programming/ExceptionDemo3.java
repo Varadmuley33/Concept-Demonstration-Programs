@@ -2,7 +2,7 @@
 //
 //  File name :     ExceptionDemo3.java
 //  Description :   Demonstrates integer division of two user-entered
-//                  numbers using basic input handling.
+//                  numbers using basic input handling.   
 //                  Displays the quotient as an integer value.
 //  Author :        Varad Nitin Muley
 //  Date :          27/11/2025
