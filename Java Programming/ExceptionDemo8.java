@@ -4,7 +4,7 @@
 //  Description :   Demonstrates proper use of multiple catch blocks
 //                  along with finally block during integer division.
 //                  Handles both specific and generic exceptions.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          27/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
