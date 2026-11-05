@@ -1,7 +1,7 @@
 interface A
 {
    void fun ();
-}
+}   
 
 interface B 
 {
