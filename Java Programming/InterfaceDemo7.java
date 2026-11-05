@@ -4,7 +4,7 @@ interface A
 
    void fun ();
 }
-
+   
 interface B 
 {
    int no = 21;
