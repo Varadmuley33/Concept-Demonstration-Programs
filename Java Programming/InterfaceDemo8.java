@@ -2,7 +2,7 @@ interface A
 {
    int no = 11;
    void fun ();
-   default void gun()
+   default void gun()   
    {
       System.out.println("Inside gun");
 
