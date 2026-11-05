@@ -3,7 +3,7 @@ interface A
    int no = 11;
 
    void fun ();
-}
+}   
 
 interface B 
 {
