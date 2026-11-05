@@ -5,10 +5,10 @@
 
  }
  class Hello implements Demo
- {
+ {     
    public void Display ()
    {
-      System.out.println("Inside Display ");
+      System.out.println("Inside Display ");   
    }
  }
  class InterfaceDemo3
