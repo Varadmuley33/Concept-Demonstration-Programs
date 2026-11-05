@@ -2,7 +2,7 @@ interface A
 {
    int no = 11;
    void fun ();
-    private void Display ()
+    private void Display ()  
    {
       System.out.println("Inside private display ");
    }
