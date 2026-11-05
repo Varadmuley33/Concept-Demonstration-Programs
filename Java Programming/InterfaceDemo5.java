@@ -2,7 +2,7 @@ interface A
 {
    void fun ();
 }
-
+   
 interface B 
 {
    void fun ();
