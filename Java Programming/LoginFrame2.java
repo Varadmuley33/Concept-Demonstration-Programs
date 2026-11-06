@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.event.*;
 
-class MarvellousLogin
+class MarvellousLogin   
 {
     public MarvellousLogin(String title, int width , int height)
     {
