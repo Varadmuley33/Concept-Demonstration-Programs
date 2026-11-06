@@ -7,7 +7,7 @@ class MarvellousJDBC
 {
     public static void main (String A[])
     {
-        try
+        try  
         {
             //Step 1 : Load the database driver 
             Class.forName("com.mysql.cj.jdbc.Driver");
