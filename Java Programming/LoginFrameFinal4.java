@@ -5,7 +5,7 @@ class MarvellousLogin implements ActionListener
 {
     // Characteristics 
 
-    JFrame fobj;
+    JFrame fobj;   
     JButton bobj;
     JTextField tobj ;
     JPasswordField pobj;
