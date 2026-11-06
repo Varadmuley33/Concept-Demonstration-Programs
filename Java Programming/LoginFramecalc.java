@@ -5,7 +5,7 @@ class Calculator implements ActionListener
 {
     JFrame fobj;
     JButton aobj,bobj,cobj,dobj;
-    JTextField tobj1,tobj2;
+    JTextField tobj1,tobj2;   
     JLabel lobj1,lobj2,resobj;
 
 
