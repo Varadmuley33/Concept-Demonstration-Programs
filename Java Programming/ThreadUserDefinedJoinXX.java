@@ -4,7 +4,7 @@
 //  Description :   Demonstrates synchronization of multiple
 //                  user-defined threads using join() method
 //                  with exception handling.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          30/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
