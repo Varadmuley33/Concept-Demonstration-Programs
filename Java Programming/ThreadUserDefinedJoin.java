@@ -3,7 +3,7 @@
 //  File name :     ThreadUserDefinedJoin.java
 //  Description :   Demonstrates creation of multiple user-defined
 //                  threads and assigning custom names to them.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          29/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
