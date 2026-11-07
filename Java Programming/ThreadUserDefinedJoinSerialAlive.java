@@ -3,7 +3,7 @@
 //  File name :     ThreadUserDefinedJoinSerialAlive.java
 //  Description :   Demonstrates serial execution of user-defined
 //                  threads along with checking thread alive
-//                  status using isAlive() method.
+//                  status using isAlive() method.   
 //  Author :        Varad Nitin Muley
 //  Date :          30/11/2025
 //
