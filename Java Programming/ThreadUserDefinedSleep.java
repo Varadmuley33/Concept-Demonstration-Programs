@@ -4,7 +4,7 @@
 //  Description :   Demonstrates basic thread scheduling where
 //                  multiple threads execute concurrently and
 //                  main thread waits for completion.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          30/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
