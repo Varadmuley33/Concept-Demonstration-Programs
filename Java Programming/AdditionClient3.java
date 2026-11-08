@@ -10,7 +10,7 @@ class AdditionClient3
 
 
         Socket sobj = new Socket("Localhost",2100); 
-        System.out.println("Server Successfully connected  ");
+        System.out.println("Server Successfully connected  ");  
 
         DataInputStream diobj = new DataInputStream (sobj.getInputStream());
         DataOutputStream doobj = new DataOutputStream(sobj.getOutputStream());
