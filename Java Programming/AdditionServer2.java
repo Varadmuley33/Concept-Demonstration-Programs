@@ -4,7 +4,7 @@ import java.net.*;
 
 class AdditionServer2
 {
-    public static void main (String A [])  throws Exception
+    public static void main (String A [])  throws Exception   
     {
         System.out.println("Client is running ");
         ServerSocket ssobj = new ServerSocket(2100);
