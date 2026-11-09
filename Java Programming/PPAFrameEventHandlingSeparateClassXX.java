@@ -9,7 +9,7 @@ class MarvellousListener implements ActionListener
         }
 
 }
-
+  
 class PPAFrameEventHandlingSeparateClassXX
 {
     public static void main (String A[])
