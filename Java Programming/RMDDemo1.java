@@ -1,7 +1,7 @@
 class Base 
 {
     public int i,j;
-
+   
 }
 
 class Derived extends Base
