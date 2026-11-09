@@ -1,7 +1,7 @@
 class Base 
 {
     public int i,j;
-    public void fun()
+    public void fun()   
     {
         System.out.println("Inside Base fun");
     }
