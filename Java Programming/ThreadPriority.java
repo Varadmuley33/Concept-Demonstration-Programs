@@ -3,7 +3,7 @@
 //  File name :     ThreadPriority.java
 //  Description :   Demonstrates thread priority retrieval and
 //                  modification using Thread class methods.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          29/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
