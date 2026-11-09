@@ -3,7 +3,7 @@
 //  File name :     ThreadDemo2.java
 //  Description :   Demonstrates retrieval of current thread
 //                  using Thread object and displays its name.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          29/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
