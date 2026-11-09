@@ -3,7 +3,7 @@
 //  File name :     ThreadUserDefined2.java
 //  Description :   Demonstrates execution of multiple user-defined
 //                  threads by creating more than one Thread object.
-//  Author :        Varad Nitin Muley   
+//  Author :        Varad Nitin Muley      
 //  Date :          29/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
