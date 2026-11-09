@@ -4,7 +4,7 @@
 //  Description :   Demonstrates creation of user-defined thread
 //                  by extending Thread class and overriding
 //                  run method.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          29/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
