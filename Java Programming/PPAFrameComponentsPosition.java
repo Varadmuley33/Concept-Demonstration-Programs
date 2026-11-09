@@ -4,7 +4,7 @@ class PPAFrameComponentsPosition
 {
     public static void main (String A[])
     {
-        JFrame fobj = new JFrame("PPA");
+        JFrame fobj = new JFrame("PPA");  
         JButton bobj = new JButton("OK");
 
         bobj.setBounds(100,100,150,50);
