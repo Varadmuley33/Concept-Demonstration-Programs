@@ -7,7 +7,7 @@ class PPAFrameComponents
         JFrame fobj = new JFrame("PPA");
 
         JButton bobj = new JButton("OK");
-
+    
         fobj.add(bobj);
 
         fobj.setSize(300 , 300);
