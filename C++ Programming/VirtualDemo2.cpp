@@ -5,7 +5,7 @@ class Base
 
     public : 
         int i,j;
-
+    
 
         void fun()
         {
