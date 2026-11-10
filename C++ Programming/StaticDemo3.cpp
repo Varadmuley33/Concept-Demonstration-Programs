@@ -3,7 +3,7 @@ using namespace std;
 
 
 class Demo
-{
+{   
     public:
         int i;
         int j;
