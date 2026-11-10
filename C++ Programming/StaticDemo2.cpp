@@ -2,7 +2,7 @@
 using namespace std;
 
 
-class Demo
+class Demo   
 {
     public:
         int i;
