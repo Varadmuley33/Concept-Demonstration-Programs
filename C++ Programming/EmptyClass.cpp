@@ -3,7 +3,7 @@
 //  File name      : EmptyClassDemo.cpp
 //  Description    : Demonstrates that an empty class object occupies
 //                   minimum memory due to compiler generated members.
-//  Author         : Varad Nitin Muley
+//  Author         : Varad Nitin Muley   
 //  Date           : 17/10/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
