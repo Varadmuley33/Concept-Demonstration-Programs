@@ -4,7 +4,7 @@ class Base
 {
 
     public : 
-        int i,j;
+        int i,j;   
 
         void fun()
         {
