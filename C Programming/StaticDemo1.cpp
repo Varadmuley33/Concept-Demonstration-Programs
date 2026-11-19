@@ -4,7 +4,7 @@ using namespace std;
 
 class Demo
 {
-    public:
+    public:   
         int i;
         int j;
         static int x;
