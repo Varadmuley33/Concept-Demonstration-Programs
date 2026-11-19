@@ -2,7 +2,7 @@
 //
 //  File name :     PointerDemo1.c
 //  Description :   Demonstrates how pointers can access specific
-//                  elements of an array by storing their addresses
+//                  elements of an array by storing their addresses   
 //                  and retrieving the corresponding data.
 //  Author :        Varad Nitin Muley
 //  Date :          15/10/2025
