@@ -4,7 +4,7 @@
 //  Description :   Demonstrates pointer subtraction which calculates
 //                  the number of elements between two pointers
 //                  pointing within the same array.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          15/10/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
