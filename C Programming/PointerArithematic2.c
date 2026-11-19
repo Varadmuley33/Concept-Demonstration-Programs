@@ -2,7 +2,7 @@
 //
 //  File name :     PointerDemo2.c
 //  Description :   Demonstrates pointer arithmetic by incrementing
-//                  and decrementing pointers to traverse array
+//                  and decrementing pointers to traverse array   
 //                  elements in C programming.
 //  Author :        Varad Nitin Muley
 //  Date :          15/10/2025
