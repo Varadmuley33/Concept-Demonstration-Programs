@@ -12,7 +12,7 @@ struct Demo
 int main ()
 {
 
-    struct Demo obj;
+    struct Demo obj;   
 
     printf("Size of demo is : %lu\n",sizeof(struct Demo));     //12
 
