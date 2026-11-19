@@ -4,7 +4,7 @@
 struct Demo 
 {
     int i;
-    float f ;
+    float f ;   
     int j;
 
 };
