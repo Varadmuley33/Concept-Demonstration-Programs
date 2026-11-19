@@ -3,7 +3,7 @@
 //  File name :     PointerDemo.c
 //  Description :   Demonstrates that all pointers occupy the same
 //                  memory size regardless of the data type they
-//                  point to in C programming.
+//                  point to in C programming.   
 //  Author :        Varad Nitin Muley
 //  Date :          15/10/2025
 //
