@@ -3,7 +3,7 @@
 //  File name :     arraydemo1.c
 //  Description :   Demonstrates different ways of array initialization
 //                  and displays their total memory sizes using sizeof.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          14/10/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
