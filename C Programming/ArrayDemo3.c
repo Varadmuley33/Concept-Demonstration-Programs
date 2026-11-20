@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     ArrayDemo3.c
-//  Description :   Demonstrates the relationship between array name,
+//  Description :   Demonstrates the relationship between array name,   
 //                  base address and first element address in C.
 //  Author :        Varad Nitin Muley
 //  Date :          14/10/2025
