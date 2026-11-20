@@ -2,7 +2,7 @@
 //
 //  File name :     ArrayDemo2.c
 //  Description :   Demonstrates accessing and assigning values to
-//                  array elements using index positions in C.
+//                  array elements using index positions in C.   
 //  Author :        Varad Nitin Muley
 //  Date :          14/10/2025
 //
