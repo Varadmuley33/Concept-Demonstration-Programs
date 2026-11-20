@@ -3,7 +3,7 @@
 //  File name :     DatatypeSize.c
 //  Description :   Demonstrates the use of sizeof operator to display
 //                  memory sizes (in bytes) of basic C datatypes.
-//  Author :        Varad Muley
+//  Author :        Varad Muley   
 //  Date :          13/10/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
