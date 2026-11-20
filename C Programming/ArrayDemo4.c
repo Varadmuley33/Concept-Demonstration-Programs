@@ -4,7 +4,7 @@
 //  Description :   Demonstrates pointer arithmetic differences between
 //                  array name and address of array using sizeof and
 //                  address manipulation in C.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          14/10/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
