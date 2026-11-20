@@ -2,7 +2,7 @@
 //
 //  File name :     Datatype.c
 //  Description :   Demonstrates basic C datatypes by declaring variables
-//                  and displaying their values using formatted output.
+//                  and displaying their values using formatted output.   
 //  Author :        Varad Nitin Muley
 //  Date :          13/10/2025
 //
