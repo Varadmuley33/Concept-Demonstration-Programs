@@ -3,7 +3,7 @@
 //  File name :     FunctionDemo.c
 //  Description :   Function demonstration program in C which performs
 //                  addition of two predefined integers and displays the result.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          17/10/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
