@@ -3,7 +3,7 @@
 //  File name :     FunctionUserDefined.c
 //  Description :   Demonstrates user-defined function in C which performs
 //                  addition of two predefined integers and returns the result.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          17/10/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
