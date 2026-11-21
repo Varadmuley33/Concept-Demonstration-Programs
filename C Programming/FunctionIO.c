@@ -2,7 +2,7 @@
 //
 //  File name :     FunctionIO.c
 //  Description :   Function input-output demonstration program in C which
-//                  accepts two integers from user and displays their addition.
+//                  accepts two integers from user and displays their addition.   
 //  Author :        Varad Nitin Muley
 //  Date :          17/10/2025
 //
