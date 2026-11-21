@@ -2,7 +2,7 @@
 //
 //  File name :     Ganesh.c
 //  Description :   Used to print Jay Ganesh
-//  Author :        Varad Muley
+//  Author :        Varad Muley   
 //  Date :          13/10/2025
 //
 ///////////////////////////////////////////////////////////////////////////////////////////
