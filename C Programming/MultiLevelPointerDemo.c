@@ -3,7 +3,7 @@
 //  File name :     MultiLevelPointerDemo.c
 //  Description :   Demonstrates multiple levels of pointers and how
 //                  indirect access retrieves the same value through
-//                  different pointer levels in C programming.
+//                  different pointer levels in C programming.    
 //  Author :        Varad Nitin Muley
 //  Date :          15/10/2025
 //
