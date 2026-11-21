@@ -2,7 +2,7 @@
 //
 //  File name :     Program125.c
 //  Description :   Demonstrates calculation of size of structure having
-//                  multiple data types using sizeof operator in C.
+//                  multiple data types using sizeof operator in C.  
 //  Author :        Varad Nitin Muley
 //  Date :          13/11/2025
 //
