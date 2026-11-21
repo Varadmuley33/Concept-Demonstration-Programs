@@ -2,7 +2,7 @@
 //
 //  File name :     FunctionUserDefinedIO.c
 //  Description :   Demonstrates user-defined function in C which accepts
-//                  two integers from user and returns their addition.
+//                  two integers from user and returns their addition. 
 //  Author :        Varad Nitin Muley
 //  Date :          17/10/2025
 //
