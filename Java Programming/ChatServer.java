@@ -5,7 +5,7 @@ class ChatServer
 {
     public static void main (String A[])   throws Exception
     {
-        ServerSocket ssobj = new ServerSocket(5100);
+        ServerSocket ssobj = new ServerSocket(5100);     
         System.out.println("Server is waiting at port 5100");
 
 
