@@ -3,7 +3,7 @@
 //  File name :     ThreadUserDefinedSynchronisedXX.java
 //  Description :   Demonstrates method-level synchronization
 //                  to ensure mutual exclusion while printing
-//                  tables using shared object.
+//                  tables using shared object.   
 //  Author :        Varad Nitin Muley
 //  Date :          30/11/2025
 //
