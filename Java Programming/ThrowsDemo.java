@@ -3,7 +3,7 @@
 //  File name :     ThrowsDemo.java
 //  Description :   Demonstrates exception propagation using
 //                  throws keyword and handling ArithmeticException.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          30/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
