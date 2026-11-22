@@ -2,7 +2,7 @@
 //
 //  File name :     ThrowDemo.java
 //  Description :   Demonstrates user-defined exception handling
-//                  using throw and custom exception class.
+//                  using throw and custom exception class.   
 //  Author :        Varad Nitin Muley
 //  Date :          30/11/2025
 //
